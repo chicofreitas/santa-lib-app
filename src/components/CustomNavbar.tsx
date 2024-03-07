@@ -33,17 +33,17 @@ export default function CustomNavbar() {
         <NavbarContent className="hidden sm:flex gap-3">
           <NavbarItem>
             <Link color="foreground" href="#">
-              Features
+              Bíblias
             </Link>
           </NavbarItem>
           <NavbarItem isActive>
             <Link href="#" aria-current="page" color="secondary">
-              Customers
+              Livros
             </Link>
           </NavbarItem>
           <NavbarItem>
             <Link color="foreground" href="#">
-              Integrations
+              Minha Lista
             </Link>
           </NavbarItem>
         </NavbarContent>
